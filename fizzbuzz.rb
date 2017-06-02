@@ -1,0 +1,1 @@
+def fizzbuzz() 1.upto(100) do |number|; puts number % 15 == 0 ? "fizzbuzz": number % 5 == 0 ? "fizz": number % 3 == 0 ? "buzz": number; end; end; fizzbuzz
