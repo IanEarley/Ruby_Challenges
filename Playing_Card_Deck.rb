@@ -89,8 +89,6 @@ def show_drawn
   puts @cards_drawn
 end
 
-def delete_empty
-    if 
 
 def game
   until @cards_drawn == 54 do
